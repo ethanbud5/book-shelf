@@ -1,0 +1,24 @@
+header{
+    text-align: center;
+    height: 100px;
+    width: 100vw;
+    background: rgb(117, 117, 151);
+    color: white;
+    margin-top: 0px;
+}
+header h1{
+    margin: 0px;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+header a{
+    color: black;
+    padding-left: 20px;
+    text-decoration: none;
+    border-right: 1px solid black;
+    padding-right: 20px
+}
+header a:last-child{
+    border-right: none;
+    margin-right: 30px;
+}
